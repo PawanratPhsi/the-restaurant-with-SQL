@@ -14,7 +14,7 @@ This project has main two parts.
 
 
 2. Analyze Restaurant Data with SQL
-  - Data Analysis : split into two topics (cusotmer preference and restaurant revenue).
+  - Data Analysis : split into two topics (customer preference and restaurant revenue).
   - Data Visualization : build dashboard with Google Sheets.
 
     Please see my [project](https://pawanratphisisopakorn.wordpress.com/2022/09/17/analysis-with-sql/) and [dashboard](https://docs.google.com/spreadsheets/d/13rVuv4QXD-tx9ovfMDZiSeCJWHpuiR8ncBlFi6zSa8Q/edit?usp=sharing)
